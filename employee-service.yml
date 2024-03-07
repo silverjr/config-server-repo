@@ -1,7 +1,7 @@
 
 spring:
   boot:
-     message: hello; employee servie message
+     message: employee service
   application:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/employee_db
