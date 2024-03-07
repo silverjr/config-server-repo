@@ -1,6 +1,6 @@
 spring:
   boot:
-     message: employee servie sms
+     message: department servie sms
   application:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/department_db
