@@ -1,4 +1,6 @@
 spring:
+  boot:
+    message: department servie sms
   application:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/department_db
@@ -31,3 +33,5 @@ eureka:
     client:
       server-url:
         defaultZone: http://127.0.0.1:8761/eureka/
+
+spring.boot.
